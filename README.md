@@ -1,2 +1,1 @@
-# VCSLearning
-Version Control System Learning and Exercise Project Repository.
+Repository which helps me to learn the GIT and GITHUB ;)
