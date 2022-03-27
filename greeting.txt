@@ -1,1 +1,2 @@
 GREETING
+Editing Kata 5
